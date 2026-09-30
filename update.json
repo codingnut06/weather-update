@@ -1,9 +1,9 @@
 {
   "latestVersionCode": 3,
   "latestVersionName": "1.2",
-  "apkUrl": "https://github.com/codingnut06/weather-update/releases/download/v1.1/Weather-v1.1-b2-release-signed.apk",
-  "sha256": "ac3f62bc6147ecf53f3967e580cf6c86ff31e740f13cc24d4c478395b63d4ef3",
-  "fileSizeBytes": 17000000,
+  "apkUrl": "https://github.com/codingnut06/weather-update/releases/download/v1.2/Weather-v1.2-b2-release-signed.apk",
+  "sha256": "sha256:ac3f62bc6147ecf53f3967e580cf6c86ff31e740f13cc24d4c478395b63d4ef3",
+  "fileSizeBytes": 17200000,
   "publishedAt": "2026-10-01",
   "mandatory": false,
   "minSupportedVersionCode": 1,
