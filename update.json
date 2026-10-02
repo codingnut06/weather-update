@@ -5,7 +5,7 @@
   "sha256": "sha256:YOUR_ACTUAL_SHA256_HASH",
   "fileSizeBytes": 16700000,
   "publishedAt": "2026-10-01",
-  "mandatory": true,
+  "mandatory": false,
   "minSupportedVersionCode": 1,
   "whatsNew": [
     "Improved weather information",
